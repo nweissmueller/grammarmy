@@ -1,5 +1,3 @@
-Here's a README file for the provided code:
-
 # Typo Correction with OLLAMA API
 
 This Python script enables typo correction across all programs on a local macOS machine using the OLLAMA API. It provides keyboard shortcuts to fix the current line (F9) or selected text (F10) by sending the text to the OLLAMA API for correction.
